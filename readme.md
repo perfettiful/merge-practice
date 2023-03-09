@@ -1,3 +1,3 @@
-# THIS IS MY PRACTICE README ! 👏
+# THIS IS MY README ! 👏
 
 ## here is my content!! 👾
